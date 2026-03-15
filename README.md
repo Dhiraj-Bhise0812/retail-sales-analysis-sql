@@ -56,6 +56,7 @@ total revenue contribution.
 sales_analysis.sql : The primary script containing DDL, DML, and all analytical queries.
 README.md : Project documentation and summary of findings.
 
-👤 About the Author
+### 👤 About the Author
+
 Dhiraj Bhise 
 LinkedIn | www.linkedin.com/in/dhiraj-bhise-335532306
